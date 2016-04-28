@@ -26,9 +26,9 @@ TODO: Write history
 
 ## Team
 
-[![Alex R](http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?s=144)](https://sindresorhus.com) |
+[![Alex R](http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?s=144)](https://waynenterpries.com) |
 ---|
-[Alex R](https://sindresorhus.com) |
+[Alex R](https://waynenterprises.com) |
 
 ## License
 
